@@ -1,0 +1,16 @@
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.xpr
+*.dcp
+*.bit
+webtalk*
+.DS_Store
+Thumbs.db
